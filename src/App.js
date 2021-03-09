@@ -1,7 +1,7 @@
 import "./App.css";
 import nike1 from "./assets/run2.png";
 import nike2 from "./assets/run5.png";
-import nike3 from "./assets/run7.png";
+
 import nike4 from "./assets/runnew.png";
 function App() {
   return (
